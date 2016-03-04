@@ -1,0 +1,6 @@
+c:\users\vaishnavi\documents\visual studio 2013\Projects\Phishing\Phishing\bin\Debug\Phishing.exe.config
+c:\users\vaishnavi\documents\visual studio 2013\Projects\Phishing\Phishing\bin\Debug\Phishing.exe
+c:\users\vaishnavi\documents\visual studio 2013\Projects\Phishing\Phishing\bin\Debug\Phishing.pdb
+c:\users\vaishnavi\documents\visual studio 2013\Projects\Phishing\Phishing\obj\Debug\Phishing.csprojResolveAssemblyReference.cache
+c:\users\vaishnavi\documents\visual studio 2013\Projects\Phishing\Phishing\obj\Debug\Phishing.exe
+c:\users\vaishnavi\documents\visual studio 2013\Projects\Phishing\Phishing\obj\Debug\Phishing.pdb
