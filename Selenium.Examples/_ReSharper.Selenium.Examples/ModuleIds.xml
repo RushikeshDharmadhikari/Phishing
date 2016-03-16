@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="03FBEBF3-54F5-48CC-8902-8D39F1352428" ModuleId="Selenium.Examples" />
+  <Module PersistentId="543CC7AC-54D1-43D9-B415-64E6B67B1C5C" ModuleId="PerformanceDisplay" />
+  <Module PersistentId="CF4D79CC-5223-4626-A443-AC1F79DEAA3D" ModuleId="Selenium.PerformanceDisplay" />
+</Modules>
